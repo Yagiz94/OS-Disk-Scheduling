@@ -3,7 +3,7 @@ Disk Scheduling
 
 -> The diskschedule.c file compiles when you compile the makefile.
 
-When the user enters ./diskschedule <headpos> the program gives output as:
+-> When the user enters ./diskschedule <headpos> the program gives output as:
 	
 	FCFS :   ......
 	SSTF :   ......
